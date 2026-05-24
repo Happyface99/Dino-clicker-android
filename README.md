@@ -1,1 +1,2 @@
 Dino clicker Android is a simple game created by scratch and it is switch backdrop by 50 and it is no coins no charecters just play and it will be upgraded soon..... and will better soon
+And you can use it on Windows if you want it apk use it on android emulator ex:bluestacks and ld player. if you want use it on web open index.html and if you want it exe I create an exe game but not fullscreen and in macbooks mac pcs will created 
