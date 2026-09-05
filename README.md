@@ -4,6 +4,3 @@ And you can use it on Windows if you want it apk use it on android emulator ex:b
 Iput the previous version was expired(sorry guys😔) reinsall it  so I improve the app with Median same game but different logo
 
 To download visit https://median.co/share/odpemro
-
-
-And the another link is https://sites.google.com/view/dinoclickerdownload/home
